@@ -1,5 +1,5 @@
 # time-series-correlation
-Some algorithm to calculate correlation between time series
+Some algorithms to calculate correlation between time series
 
 ## LoCo
 
